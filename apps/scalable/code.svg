@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="58.024445mm"
+   height="55.408447mm"
+   viewBox="0 0 58.024445 55.408447"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="code.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.28"
+     inkscape:cx="61.328125"
+     inkscape:cy="102.73438"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6401"
+       originx="-41.388292"
+       originy="-32.935199" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="VS Code icon"
+     inkscape:groupmode="layer"
+     id="code"
+     transform="translate(-41.388292,-32.935199)">
+    <path
+       style="fill:#0ad3f3;stroke-width:0.43621"
+       d="m 73.495396,77.703357 c -6.267093,-5.84012 -11.620841,-10.54028 -11.897222,-10.44476 -0.276381,0.0954 -3.555543,2.41032 -7.287025,5.14401 l -6.784513,4.97034 -2.396757,-0.92699 c -1.318217,-0.50986 -2.717143,-1.26436 -3.108726,-1.6767 -0.625092,-0.65821 -0.697547,-2.38097 -0.593792,-14.11861 l 0.118171,-13.368933 2.437914,-1.388083 c 1.340852,-0.763439 2.748434,-1.383175 3.127957,-1.377171 0.379525,0.0064 3.790596,2.30543 7.580159,5.109874 3.789563,2.804428 7.010171,5.098963 7.156906,5.098963 0.146731,0 2.575963,-2.217155 5.39829,-4.927014 2.822327,-2.709859 8.091246,-7.612634 11.708739,-10.895057 l 6.577231,-5.968027 6.381439,2.660804 c 3.509792,1.463452 6.632795,2.844711 6.940021,3.069465 0.433993,0.317537 0.558548,5.275628 0.558548,22.234259 0,17.32988 -0.119066,21.91974 -0.577852,22.28262 -0.317832,0.25136 -3.377992,1.52037 -6.80035,2.82 -3.422359,1.29963 -6.42991,2.35318 -6.683463,2.3412 -0.253535,-0.0113 -5.588608,-4.80004 -11.855692,-10.64019 z m 11.171271,-16.84919 c 0,-8.868681 -0.0809,-10.022804 -0.686903,-9.801205 -0.377804,0.138088 -3.494593,2.295485 -6.926206,4.794075 -3.431597,2.49859 -6.239269,4.7902 -6.239269,5.09246 0,0.30227 2.865432,2.66394 6.367624,5.24819 3.502192,2.58426 6.618981,4.70319 6.926189,4.70876 0.431375,0.008 0.558565,-2.27883 0.558565,-10.04228 z m -32.720659,3.54859 c 1.775668,-1.70348 3.228486,-3.288557 3.228486,-3.522757 0,-0.23419 -1.569014,-1.912483 -3.486697,-3.729193 -1.917684,-1.81674 -3.626594,-3.169077 -3.79794,-3.005807 -0.171344,0.16329 -0.31183,3.106847 -0.31183,6.541817 0,3.43498 0.08538,6.822246 0.31183,6.928183 0.226454,0.105937 2.280483,-1.508773 4.056151,-3.212243 z"
+       id="path-main"
+       sodipodi:nodetypes="scscssscscsssscscssscssscssscsssssszs" />
+  </g>
+</svg>
