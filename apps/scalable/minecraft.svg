@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120.50718mm"
+   height="120.50718mm"
+   viewBox="0 0 120.50718 120.50718"
+   version="1.1"
+   id="svg12503"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="minecraft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12505"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72337262"
+     inkscape:cx="378.09007"
+     inkscape:cy="239.84873"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs12500" />
+  <g
+     inkscape:label="Minecraft Icon"
+     inkscape:groupmode="layer"
+     id="minecraft"
+     transform="translate(-5.0352011,-6.1324915)">
+    <path
+       d="m 113.49166,106.06307 c 0,4.68774 -3.83815,8.52588 -8.52588,8.52588 H 89.390225 V 81.654354 c 0,-3.326 -2.819868,-5.68192 -6.145866,-5.71808 -3.271771,-0.0592 -5.904852,-1.48822 -5.904852,-4.77208 l 6.025358,-4.7781 h 12.050718 c 3.325999,0 6.025357,-2.69938 6.025357,-6.02537 v -12.05071 c 0,-3.32599 -2.699358,-6.02537 -6.025357,-6.02537 H 83.364865 c -3.325998,0 -6.025358,2.69938 -6.025358,6.02537 v 9.55018 l -6.025358,8.5259 H 59.26343 l -6.025358,-8.5259 v -9.55018 c 0,-3.32599 -2.699362,-6.02537 -6.02536,-6.02537 H 35.161996 c -3.325998,0 -6.02536,2.69938 -6.02536,6.02537 v 12.05071 c 0,3.31395 2.711411,6.02537 6.02536,6.02537 h 12.050716 l 6.02536,4.7781 c 0,3.45252 -2.904223,5.54935 -6.404956,5.38668 -3.097036,-0.14347 -5.645762,2.3077 -5.645762,5.41075 V 114.58895 H 23.111277 c -3.325998,0 -6.025358,-2.69936 -6.025358,-6.02536 V 21.708045 c 0,-1.946181 1.578648,-3.524829 3.524836,-3.524829 H 107.4663 c 3.326,0 6.02536,2.699353 6.02536,6.025351 z m -36.152153,8.52588 H 53.238072 v -8.52588 c 0,-3.326 2.69936,-3.52483 6.025358,-3.52483 h 12.050719 c 3.325998,0 6.025358,0.19813 6.025358,3.52483 z M 125.54238,18.183216 c 0,-6.658031 -5.3927,-12.0507245 -12.05072,-12.0507245 H 17.085919 c -6.658021,0 -12.0507179,5.3926935 -12.0507179,12.0507245 v 96.405734 c 0,6.65803 5.3926969,12.05072 12.0507179,12.05072 h 96.405741 c 6.65802,0 12.05072,-5.39269 12.05072,-12.05072 z"
+       id="path-main"
+       style="fill:#339f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.02535" />
+  </g>
+</svg>
