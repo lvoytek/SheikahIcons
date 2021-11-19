@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="133.52982mm"
+   height="133.52966mm"
+   viewBox="0 0 133.52982 133.52966"
    version="1.1"
    id="svg1008"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -24,14 +24,18 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.72337262"
-     inkscape:cx="444.44591"
-     inkscape:cy="263.34975"
+     inkscape:cx="400.20868"
+     inkscape:cy="230.17183"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs1005">
     <inkscape:path-effect
@@ -55,7 +59,8 @@
   <g
      inkscape:label="Chromium Icon"
      inkscape:groupmode="layer"
-     id="chromium">
+     id="chromium"
+     transform="translate(-11.874249,-8.9484016)">
     <path
        id="path-main"
        style="fill:#beebf4;fill-opacity:1;stroke-width:0.298057"
