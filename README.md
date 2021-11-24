@@ -10,3 +10,18 @@ git clone https://github.com/lvoytek/SheikahIcons.git
 cd SheikahIcons
 make install
 ```
+
+## Use Icons
+Setup Sheikah icons with the following instructions based on your window manager
+
+### Gnome
+Run the following command:
+
+```bash
+gsettings set org.gnome.desktop.interface icon-theme "Sheikah"
+```
+
+
+
+
+Note that icons for applications downloaded as Snaps do not yet work. The snap package will be linked here when available.
