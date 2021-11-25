@@ -12,3 +12,8 @@ remove:
 
 .PHONY:build
 build:
+	rm -rf Sheikah/
+	mkdir -p Sheikah
+	rsync -aP --exclude Makefile --exclude .git --exclude Sheikah/ * Sheikah/
+	zip -r Sheikah.zip Sheikah
+	rm -rf Sheikah/
