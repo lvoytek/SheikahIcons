@@ -1,0 +1,8 @@
+name: sheikah-icons
+base: core18
+architectures:
+  - all
+version: 'latest'
+summary: Icons with a Sheikah Slate look.
+description: |
+  Snap of the Sheikah icons set
