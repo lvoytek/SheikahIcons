@@ -18,6 +18,12 @@ build:Sheikah.zip
 Sheikah.zip:Sheikah/index.theme
 	zip -r Sheikah.zip Sheikah
 
+.PHONY:buildtar
+buildtar:sheikah-icons-$(VERSION).tar.gz
+
+sheikah-icons-$(VERSION).tar.gz:Sheikah/index.theme
+	tar -czvf sheikah-icons-$(VERSION).tar.gz Sheikah/
+
 Sheikah/index.theme:
 	mkdir -p Sheikah
 	rsync -aP --exclude Makefile --exclude .git --exclude Sheikah/ * Sheikah/
@@ -25,4 +31,5 @@ Sheikah/index.theme:
 .PHONY:clean
 clean:
 	rm -rf Sheikah/
-	rm -rf Sheikah.zip
+	rm -f Sheikah.zip
+	rm -f sheikah-icons-$(VERSION).tar.gz
