@@ -1,0 +1,13 @@
+name: sheikah-icons
+base: core20
+version: '1.0.0'
+summary: Icons with a Sheikah Slate look
+description: |
+  Snap of the Sheikah icons set
+
+grade: stable
+confinement: strict
+
+parts:
+  icons:
+    plugin: nil
