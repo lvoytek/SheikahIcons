@@ -25,3 +25,7 @@ gsettings set org.gnome.desktop.interface icon-theme "Sheikah"
 
 
 Note that icons for applications downloaded as Snaps do not yet work. The snap package will be linked here when available.
+
+```bash
+for PLUG in $(snap connections | grep gtk-common-themes:icon-themes | awk '{print $2}'); do sudo snap connect ${PLUG} sheikah-icons:icon-themes; done
+```

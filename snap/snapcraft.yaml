@@ -8,6 +8,20 @@ description: |
 grade: stable
 confinement: strict
 
+slots:
+  icon-themes:
+    interface: content
+    source:
+      read:
+        - $SNAP/share/icons/Sheikah
+
 parts:
   icons:
-    plugin: nil
+    plugin: dump
+    source: https://github.com/lvoytek/SheikahIcons/releases/download/$SNAPCRAFT_PROJECT_VERSION/sheikah-icons-$SNAPCRAFT_PROJECT_VERSION.tar.gz
+    override-build: |
+        snapcraftctl build
+        mkdir -p $SNAPCRAFT_PART_INSTALL/share/icons/Sheikah
+        mv * $SNAPCRAFT_PART_INSTALL/share/icons/Sheikah/
+    stage:
+      - share/icons/Sheikah
